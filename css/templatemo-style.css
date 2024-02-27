@@ -172,7 +172,7 @@ h1,h2,h3,h4,h5
 #home
 	{
         /* img not working? too big? */
-        background: url('../images/smile.jpg');
+        background: url('../images/portfolio-img1.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
@@ -362,7 +362,7 @@ h1,h2,h3,h4,h5
     }
 #contact input
     {
-        height: 50px;
+        height: 40px;
     }
 #contact input[type="submit"]
     {
@@ -384,7 +384,7 @@ footer
     {
         border-top: 1px solid #090909;
         text-align: center;
-        padding-top: 40px;
+        padding-top: 50px;
         padding-bottom: 20px;
     }
 footer hr
