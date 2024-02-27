@@ -171,6 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
+        /* img not working? too big? */
         background: url('../images/smile.jpg');
         background-size: cover;
         background-repeat: no-repeat;
